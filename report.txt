@@ -1,0 +1,16 @@
+NOTE: Umple crashed every time I tried to create a UML diagram, but this is what I remember from the file had in lab.
+
+
+
+
+
+	I noticed with the generated code that you cannot gernerate parameters from the UML diagram.
+ Also, the methods come with toString methods. From the generated code I could not have parameters,
+ because it is based off the UML diagram.
+	Compared to my code, the generated code added a lot of extra methods. For example, for my 
+getName method from the generated code, since I had it return a String the method automatically 
+would return "Hello! My name is" + name. I noticed while creating the UML diagram that the code 
+generated from it, when I created a String variable only the variable name showed up in the code.
+	The plugin could be useful for when you aren't sure how to implement methods. For me that
+has been one of my biggest problems when starting a program. Also, the generated code from Umple
+provides the user with a lot of code to start with and work around.
